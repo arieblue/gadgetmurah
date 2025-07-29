@@ -1,4 +1,4 @@
-fetch('data/produk.json')
+fetch('produk.json')
   .then(res => res.json())
   .then(data => {
     const list = document.getElementById('product-list');
