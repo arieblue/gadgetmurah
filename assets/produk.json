@@ -2,11 +2,11 @@
   {
     "nama": "Smartphone Murah",
     "harga": "Rp 1.200.000",
-    "gambar": "images/newImg13.jpg"
+    "gambar": "assets/images/newImg13.jpg"
   },
   {
     "nama": "Headset Gaming",
     "harga": "Rp 300.000",
-    "gambar": "images/realme-buds-wireless-2.jpg"
+    "gambar": "assets/images/realme-buds-wireless-2.jpg"
   }
 ]
