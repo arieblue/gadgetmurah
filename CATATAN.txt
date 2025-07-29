@@ -4,3 +4,17 @@ Menambahkan file di folder lokal tidak langsung masuk GitHub, kamu tetap perlu m
 git add .
 git commit -m "perapihan struktur folder, pindah produk.json dan gambar ke assets"
 git push origin master
+
+
+🧩 1. Tarik dulu perubahan dari GitHub
+bash
+Copy
+Edit
+git pull origin master
+Ini akan menggabungkan (merge) perubahan di GitHub ke lokal kamu. Kalau tidak ada konflik, langsung berhasil.
+
+🔁 2. Jika berhasil, langsung push ulang:
+bash
+Copy
+Edit
+git push origin master
