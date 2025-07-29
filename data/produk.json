@@ -1,0 +1,12 @@
+[
+  {
+    "nama": "Xiaomi Redmi 10",
+    "harga": "1.799.000",
+    "gambar": "assets/images/redmi10.jpg"
+  },
+  {
+    "nama": "Realme Buds Wireless",
+    "harga": "299.000",
+    "gambar": "assets/images/realmebuds.jpg"
+  }
+]
