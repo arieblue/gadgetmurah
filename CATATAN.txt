@@ -1,12 +1,6 @@
 ⚠️ Tidak Otomatis Upload ke GitHub
 Menambahkan file di folder lokal tidak langsung masuk GitHub, kamu tetap perlu menjalankan tiga langkah ini:
 
-🧩 Step 1: Tambahkan ke staging area
-
 git add .
-🧩 Step 2: Commit perubahan
-
-git commit -m "Menambahkan gambar produk dummy"
-🧩 Step 3: Push ke GitHub
-
+git commit -m "perapihan struktur folder, pindah produk.json dan gambar ke assets"
 git push origin master
